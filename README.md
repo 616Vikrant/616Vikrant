@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m @Vikrant616
+- 👀 I’m interested in Python Programming
+- 🌱 I’m currently learning git 
+- 💞️ I’m looking to collaborate on amazing python projects
+
 
 <!--
 **616Vikrant/616Vikrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
